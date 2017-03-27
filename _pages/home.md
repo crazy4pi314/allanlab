@@ -1,12 +1,11 @@
 ---
-title: "Allan Lab - Home"
+title: "QMAPP - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "QMAPP group at Macquarie University."
 sitemap: false
 permalink: /
 ---
-
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+The Quantum Materials and Applications (QMAPP) group focuses on cross-disciplinary research activities in quantum physics, nanotechnology and material science. With state-of-the-art facilities located at [Macquarie University](http://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-physics-and-astronomy) and [CSIRO](http://www.csiro.au/en/Locations/NSW/Lindfield), we are part of the ARC Centre of Excellence for [Engineered Quantum Systems (EQuS)](www.equs.org), which is a multi-institutional centre whose mission is to study and harness the features of quantum physics for the realisation of quantum-based technologies.  
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -32,7 +31,7 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topo214.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/test1.png" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
@@ -51,14 +50,14 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Our goal is to Engineer Quantum Systems from these materials and explore their potential for quantum-based applications ranging from quantum information technology, computing and light-matter interfaces for quantum photonics, to high-resolution and single-spin sensing both in solid-state physics and biomedicine. (see [Research](research)).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at Macquarie University, in the northern suburbs of Sydney, Australia. We collaborate with our neighbors from [QSciTech](http://www.mq.edu.au/research/research-centres-groups-and-facilities/innovative-technologies/centres/qscitech), as well as with the colleagues from [EQuS](https://www.equs.org).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  
  
-We are grateful for funding from Leiden University and [NWO](www.nwo.nl) ([Vidi talent grant](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)).
+We are grateful for funding from...
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 200px">

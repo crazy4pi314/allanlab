@@ -8,23 +8,26 @@
 #  education3: 
 #  education4:  
 
-- name: Joey Braspenning
-  photo: rock.jpg
-  info: Bachelor student, Spring 2017
-  email: Braspenning@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+- name: Sarath Raman Nair
+  photo: nair.jpg
+  info: PhD Student, Fall 2016
+  email: sarath.raman.nair@mq.edu.au
+  number_educ: 2
+  education1: MSc (Applied Physics)
+  education2: BSc (Physics)
 
-- name: Margot Leemker
-  photo: rock.jpg
-  info: Bachelor student, Spring 2017
-  email: margot.leemker@casema.nl
-  number_educ: 0
-  education1:
+- name: Andrew Wood
+  photo: wood.jpg
+  info: PhD student, ?
+  email: andrew.wood@mq.edu.au
+  number_educ: 2
+  education1: MSc (Physics)
+  education2: BSc
   
-- name: Sietske Lensen
-  photo: rock.jpg
-  info: Bachelor student, Spring 2017
+- name: Matt Van Breugel
+  photo: van_breugel.jpg
+  info: PhD student, ?
   email: Lensen@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+  number_educ: 2
+  education1: MSc (Physics)
+  education2: BSc (Physics)

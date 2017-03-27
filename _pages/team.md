@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -70,7 +70,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students 
+## Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -81,6 +81,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -127,7 +128,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Alumni
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
-    <th>Master Students</th> 
+    <th>HDR Students</th> 
     <th>Bachelor Students</th>
   </tr>
   <tr>
@@ -136,8 +137,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Alexander Vanstone, Spring 2016</td>
   </tr>
   <tr>
-    <td>Vitaly Feedosev, all of 2016</td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
+    <td>Andreas Reinhard, ?</td>
+    <td>Dr. Benjamin Besga, Fall 2015</td>
     <td>Tjerk Benschop, Spring 2016</td>
   </tr>
   <tr>
